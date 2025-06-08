@@ -1,0 +1,14 @@
+
+ .book-card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .book-card {
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .book-card:hover {
+    transform: scale(1.03);
+  }
